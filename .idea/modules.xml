@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyService_01_StartService/MyService_01_StartService.iml" filepath="$PROJECT_DIR$/MyService_01_StartService/MyService_01_StartService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyService_02/MyService_02.iml" filepath="$PROJECT_DIR$/MyService_02/MyService_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyService_03_BindService/MyService_03_BindService.iml" filepath="$PROJECT_DIR$/MyService_03_BindService/MyService_03_BindService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyService_04_BindService_CallMethod/MyService_04_BindService_CallMethod.iml" filepath="$PROJECT_DIR$/MyService_04_BindService_CallMethod/MyService_04_BindService_CallMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyService_05_BindService_Interface/MyService_05_BindService_Interface.iml" filepath="$PROJECT_DIR$/MyService_05_BindService_Interface/MyService_05_BindService_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service.iml" filepath="$PROJECT_DIR$/Service.iml" />
+    </modules>
+  </component>
+</project>
